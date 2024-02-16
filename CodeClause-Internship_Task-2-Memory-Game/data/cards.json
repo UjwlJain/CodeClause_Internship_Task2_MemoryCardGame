@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../images/chili.png",
+        "name": "chili"
+    },
+    {
+        "image": "../images/grapes.png",
+        "name": "grapes"
+    },
+    {
+        "image": "../images/cricketer.png",
+        "name": "cricketer"
+    },
+    {
+        "image": "../images/orange.png",
+        "name": "orange"
+    },
+    {
+        "image": "../images/pineapple.png",
+        "name": "pineapple"
+    },
+    {
+        "image": "../images/badminton.png",
+        "name": "badminton"
+    },
+    {
+        "image": "../images/tomato.png",
+        "name": "tomato"
+    },
+    {
+        "image": "../images/footballer.png",
+        "name": "footballer"
+    },
+    {
+        "image": "../images/cherries.png",
+        "name": "cherries"
+    }
+]
